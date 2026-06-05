@@ -28,7 +28,7 @@ Yangilanish usuli: **long polling** (webhook emas) — server yoki domen kerak e
 
 ## 📋 Talablar
 
-- [Rust](https://rustup.rs) 1.85 yoki undan yuqori
+- [Rust](https://rustup.rs) 1.88 yoki undan yuqori (eng yangi `stable` tavsiya etiladi: `rustup update stable`)
 - Telegram bot tokeni — [@BotFather](https://t.me/BotFather) dan olinadi
 
 ## 🚀 Ishga tushirish
