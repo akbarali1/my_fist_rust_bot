@@ -1,0 +1,10 @@
+[package]
+name = "my_fist_rust_bot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+teloxide = { version = "0.17", features = ["macros"] }
+tokio = { version = "1.47", features = ["rt-multi-thread", "macros"] }
+sqlx = { version = "0.8", features = ["runtime-tokio-rustls", "sqlite"] }
+dotenvy = "0.15"
